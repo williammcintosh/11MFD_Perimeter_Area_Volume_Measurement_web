@@ -1,5 +1,5 @@
 {
-  "name": "year11-math",
+  "name": "year11-math-site",
   "version": "1.0.0",
   "scripts": {
     "dev": "next dev",
